@@ -1,2 +1,0 @@
-# rabbit-challenge
-ラビットチャレンジ
